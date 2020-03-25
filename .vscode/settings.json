@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": true,
+    "javascript.preferences.quoteStyle": "single",
+    "files.autoSave": "onWindowChange",
+    "editor.tabSize": 2
+}
